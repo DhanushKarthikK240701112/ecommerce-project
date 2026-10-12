@@ -1,0 +1,20 @@
+[
+  {
+    "id": "USR001",
+    "name": "Store Admin",
+    "email": "admin@ecommerce.com",
+    "role": "admin",
+    "phone": "",
+    "active": true,
+    "password": "$2a$10$MSFqnXvToEPHFaRkUsmNCecs1tQb4TzVlm3u87ZHP4XgntC6aoFsW"
+  },
+  {
+    "id": "USR1791782860066",
+    "name": "DHANUSHKARTHIK K ",
+    "email": "dhanushkarthik.k.2024.cse@rajalakshmi.edu.in",
+    "phone": "9876543210",
+    "role": "customer",
+    "active": true,
+    "password": "$2a$10$vQ7i5x9LI3j7u/Ehibz8AOvO8s0aCthIyNE0ycBQix7zu6ii3TemO"
+  }
+]
